@@ -1,11 +1,16 @@
 _repo: History-of-the-Australian-Bushrangers_58799
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58799-h/images/cover.jpg
 creator:
   author:
     agent_name: Boxall, George E.
     gutenberg_agent_id: '50157'
     url: http://www.gutenberg.org/2009/agents/50157
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58799#History-of-the-Australian-Bushrangers
 gutenberg_issued: '2019-02-01'
 gutenberg_type: Text
 identifiers:
